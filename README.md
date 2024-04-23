@@ -7,4 +7,4 @@ Lab_05(https://github.com/Choudharypooja123/AIML-LAB-2024-25_Batch-11/blob/main/
 Lab_06(https://github.com/Choudharypooja123/AIML-LAB-2024-25_Batch-11/blob/main/Lab_06_2203A51058.ipynb)
 Lab_07(https://github.com/Choudharypooja123/AIML-LAB-2024-25_Batch-11/blob/main/lab_07_2203A51058_Batch11.ipynb)
 Lab_08(https://github.com/Choudharypooja123/AIML-LAB-2024-25_Batch-11/blob/main/Lab_8_2203A51058_Batch11_.ipynb)
-
+Lab_09(https://github.com/Choudharypooja123/AIML-LAB-2024-25_Batch-11/blob/main/LAB_9_2203A51058_Batch_11.ipynb)
